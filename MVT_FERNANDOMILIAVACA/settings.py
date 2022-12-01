@@ -55,7 +55,7 @@ ROOT_URLCONF = 'MVT_FERNANDOMILIAVACA.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': ['/Users/fernandomiliavaca/Documents/Programacion/Python/MVT_FERNANDOMILIAVACA/MVT_FERNANDOMILIAVACA/MVT_FERNANDOMILIAVACA/templates/MVT_FERNANDOMILIAVACA'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
